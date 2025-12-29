@@ -100,5 +100,4 @@ This project demonstrates how modern AI and computer vision techniques can be ap
 
 ---
 
-## 📂 Project Structure
 
